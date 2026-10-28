@@ -56,6 +56,8 @@ I make software that runs anywhere — Mac, Windows, Linux and beyond. If a tool
 
 *"If it only runs on one OS, it isn't finished yet."*
 
-⭐ Star anything you find useful — it helps more people find it.
+A word from Evi Nemeth herself: *"Always use sudo"*
+
+⭐ Star anything you find useful — it helps more people find it, and you better read the UNIX and Linux System Administration Handbook.
 
 </div>
