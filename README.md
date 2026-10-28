@@ -45,8 +45,8 @@ I make software that runs anywhere — Mac, Windows, Linux and beyond. If a tool
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-Hackers-Guide&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hackers-Guide&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-Hackers-Guide&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hackers-Guide&theme=tokyonight" alt="Top languages" />
 
 </div>
 
